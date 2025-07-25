@@ -14,7 +14,7 @@ def render_user_input(model_provider, model):
   )
 
   question = st.chat_input(
-    "💬 Ask a Question from the PDF Files",
+    "Whats your inquiry For Inorvbit....",
     disabled=disable_input
   )
 

@@ -37,11 +37,11 @@ client/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/Zlash65/rag-bot-fastapi.git
+
 cd rag-bot-fastapi
 ```
 
-2. **Create a virtual environment (optional)**
+2. **Create a virtual environment **
 
 ```bash
 python3 -m venv venv
